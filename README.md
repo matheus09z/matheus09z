@@ -1,4 +1,4 @@
-### Hi there 👋
+### Oi, Sou Matheus👋
 
 <!--
 **matheus09z/matheus09z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img height="50px" align="left"  width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
