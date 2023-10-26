@@ -27,10 +27,9 @@ Here are some ideas to get you started:
 </div>
 
 <div>
- <br>
-<a href="https://www.linkedin.com/in/matheus-henrique-1469361b6/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
- 
+
+  <a href="https://www.linkedin.com/in/matheus-henrique-1469361b6/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </div>
           
