@@ -24,7 +24,6 @@ Here are some ideas to get you started:
   <img height="50px" align="left"  width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
  <img height="50px" align="left"  width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />     
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus09z&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
