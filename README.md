@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus09z&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=matheus09z&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
 <img height="50px" align="left"  width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
